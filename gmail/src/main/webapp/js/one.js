@@ -1,0 +1,6 @@
+function pick(){
+	
+	alert("hello!!!")
+	
+	
+}
